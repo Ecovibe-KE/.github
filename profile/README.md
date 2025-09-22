@@ -20,8 +20,8 @@ Our mission is to "drive environmental and social change through expert consulta
 
 * **Website:** [https://www.ecovibe.co.ke/](https://www.ecovibe.co.ke/)
 * **LinkedIn:** [https://www.linkedin.com/company/ecovibe-kenya/](https://www.linkedin.com/company/ecovibe-kenya/) (Based on common practice, LinkedIn is a good place to find a company's profile. You may want to confirm this is the correct URL.)
-* **Email:** info@ecovibe.co.ke (Based on a typical email format for a company website.)
+* **Email:** info@ecovibe.co.ke
 
 ## Our Work
 
-This GitHub organization hosts the open-source projects, tools, and resources developed by Ecovibe Kenya. Explore our repositories to find code related to our initiatives, and feel free to contribute!
+This GitHub organization hosts the projects, tools, and resources developed by Ecovibe Kenya. Explore our repositories to find code related to our initiatives, and feel free to contribute!
